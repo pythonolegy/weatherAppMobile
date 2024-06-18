@@ -9,7 +9,6 @@
 * Pogoda na 5 dni z intervalem co 3 godziny
 * Cash danych do bazy danych aplikacji
 
-<image src='https://user-images.githubusercontent.com/48681339/234848598-8ae0f4ad-a4c1-4156-aff0-a32556d6cd26.gif' width=200 />
 
 ## Wykorzystane technoligii
 
