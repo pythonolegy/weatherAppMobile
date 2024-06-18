@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="enter_city_name">Nazwa miasta</string>
+    <string name="show_the_weather">Sprawdź pogodę</string>
+    <string name="close">Zamknij</string>
+    <string name="get_weather_by_location">Pogoda z GPS</string>
+    <string name="details">Szczegóły</string>
+    <string name="no_data_uploaded">Brak danych</string>
+    <string name="location_permission_required">Potrzebna zgoda</string>
+    <string name="ok">Ok</string>
+    <string name="city">Miasto</string>
+    <string name="temperature">Temperatura</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="wind_speed">Wiatr</string>
+    <string name="failed_to_load_forecast">Nie powiodło się</string>
+    <string name="network_unavailable">Sieć niedostępna</string>
+    <string name="city_not_found">Miasto nieznaleznione</string>
+    <string name="location_unavailable">Lokalizacja niedostępna</string>
+</resources>

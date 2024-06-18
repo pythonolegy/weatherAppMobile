@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="weather_update" translatable="false">Weather Update</string>
+    <string name="channel_description" translatable="false">Weather updates channel description</string>
+    <string name="channel_name" translatable="false">Weather Updates Channel</string>
+    <string name="app_name">Weather</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="show_the_weather">Show the weather</string>
+    <string name="close">Close</string>
+    <string name="get_weather_by_location">Get the weather by location</string>
+    <string name="details">Details</string>
+    <string name="no_data_uploaded">No data uploaded</string>
+    <string name="temperature_in_celsius" tools:ignore="MissingTranslation">%d°C</string>
+    <string name="humidity_as_percentage" tools:ignore="MissingTranslation">%d%%</string>
+    <string name="wind_speed_in_meters_per_second" tools:ignore="MissingTranslation">%.1f m/s</string>
+    <string name="pressure_in_millimeters_of_mercury" tools:ignore="MissingTranslation">%d mmHg</string>
+    <string name="location_permission_required">Permission is required</string>
+    <string name="location_permission_required_message" tools:ignore="MissingTranslation">Location access is required to display the weather in your city</string>
+    <string name="ok">OK</string>
+    <string name="city">City</string>
+    <string name="weather" translatable="false">Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="language_code" translatable="false">en</string>
+    <string name="failed_to_load_forecast">Failed to load weather forecast</string>
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="city_not_found">City not found</string>
+    <string name="location_unavailable">Location unavailable</string>
+</resources>
