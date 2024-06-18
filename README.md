@@ -14,8 +14,7 @@
 
 * Kotlin
 * Android SDK
-* Clean Architecture
-* MVVM, LiveData
+* MVVM
 * Coroutines
 * Dagger 2
 * Room
