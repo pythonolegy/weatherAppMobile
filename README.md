@@ -43,7 +43,7 @@
 
   <sub>Przy wciśnięciu na blok z nazwą miasta i temperaturą otwiera się `BottomSheetDialogFragment` z szczególną informacją o pogodzie. 
 
-- **Экран BottomSheetDialogFragment:**
+- **Ekran BottomSheetDialogFragment:**
   * Znaczek pogody;
   * Lista parametrów bieżącej pogody: miasto, temperatura, opis pogody,wilgotność, ciśnienie, wiatr;
   * Lista z pogodą na 5 dni co 3 godziny.
@@ -51,7 +51,7 @@
     
   <sub>Przy zmianie pionowo-poziomo aplikacja działa poprawnie
 
-## Установка
+## Instalacja
 
   * Clone repozytoria: 
 
